@@ -15,7 +15,7 @@ The `data` folder is divided into `raw` and `processed` sub-folders:
 - `raw`: Contains the initial dataset on Binance and its competitors.
 - `processed`: Contains the cleaned and processed data used for the visualizations.
 
-##### Scripts
+##### Script
 
 - `binance.py`: This script contains the Python code used for data processing and cleaning.
 
