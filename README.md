@@ -1,6 +1,6 @@
-#### Binance Competitive Analysis Project
+#### Competitive Analysis Project
 
-This repository contains the dataset, scripts, and visualizations associated with the Binance Competitive Analysis project. The goal of this project is to gain insights into Binance's position within the competitive landscape, focusing on organic traffic, common keywords, AdWords usage, and the overall relevance of competitors.
+This repository contains the dataset, scripts, and visualizations associated with this Competitive Analysis project. The goal of this project is to gain insights into our competitor's position within the competitive landscape, focusing on organic traffic, common keywords, AdWords usage, and the overall relevance of competitors.
 
 ##### Table of Contents:
 
