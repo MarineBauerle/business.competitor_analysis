@@ -1,6 +1,6 @@
-### Binance Competitive Analysis Dashboard
+### Competitive Analysis Dashboard
 
-For a comprehensive and interactive visualization of the Binance competitive analysis, we have developed a Tableau dashboard. This dashboard offers insights into various metrics, comparisons, and trends associated with the competitive landscape of Binance.
+For a comprehensive and interactive visualization of the competitive analysis, we have developed a Tableau dashboard. This dashboard offers insights into various metrics, comparisons, and trends associated with the competitive landscape.
 
 **Dashboard Link:** [Binance Competitor Analysis Dashboard](https://public.tableau.com/views/BinanceCompetitorAnalysis/Dashboard1?:language=fr-FR&:display_count=n&:origin=viz_share_link)
 
