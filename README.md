@@ -17,11 +17,11 @@ The `data` folder is divided into `raw` and `processed` sub-folders:
 
 ##### Script
 
-- `binance.py`: This script contains the Python code used for data processing and cleaning.
+- `competitor.py`: This script contains the Python code used for data processing and cleaning.
 
 ##### Documents
 
-Refer to the [dashboard_info.md](./documents/dashboard_info.md) for insights into the Tableau dashboard visualizations and the [Binance Competitor Analysis Dashboard](https://public.tableau.com/views/BinanceCompetitorAnalysis/Dashboard1?:language=fr-FR&:display_count=n&:origin=viz_share_link).
+Refer to the [dashboard_info.md](./documents/dashboard_info.md) for insights into the Tableau dashboard visualizations and the [Competitor Analysis Dashboard](https://public.tableau.com/views/BinanceCompetitorAnalysis/Dashboard1?:language=fr-FR&:display_count=n&:origin=viz_share_link).
 
 
 
@@ -42,4 +42,4 @@ For this analysis, the methodology is outlined as follows:
 
 4. **Visualization**: Created interactive visualizations using Tableau, enabling stakeholders to dynamically explore the competitive landscape and make informed decisions.
 
-The combination of data analysis and visualization allows for a holistic understanding of Binance's positioning among its competitors and highlights areas of opportunity or concern.
+The combination of data analysis and visualization allows for a holistic understanding of the competitor's positioning among its competitors and highlights areas of opportunity or concern.
