@@ -2,7 +2,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import seaborn as sns
 
-data = pd.read_csv('binance.com-organic.Competitors-uk-20231016-2023-10-17T11_10_16Z.csv')
+data = pd.read_csv('organic.Competitors-uk-20231016-2023-10-17T11_10_16Z.csv')
 
 print(data.head())
 print(data.describe())
@@ -22,7 +22,7 @@ print(outliers)
 data.to_csv('cleaned_data.csv', index=False)
 
 
-### Binance Competitor Analysis Script
+### Competitor Analysis Script
 
 #### Description:
 This Python script provides a comprehensive analysis of the competitors' relevance against organic traffic. The script primarily focuses on visualizing the data and identifying potential outliers.
